@@ -1,9 +1,9 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOne", "DayOne\DayOne.csproj", "{FB4BEE47-4DC9-4E4D-9A78-39211D2C8F79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01", "Day01\Day01.csproj", "{FB4BEE47-4DC9-4E4D-9A78-39211D2C8F79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayTwo", "DayTwo\DayTwo.csproj", "{E3E44A41-00AC-40E1-B566-C5919309DE42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02", "Day02\Day02.csproj", "{E3E44A41-00AC-40E1-B566-C5919309DE42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayThree", "DayThree\DayThree.csproj", "{74AF7235-1A89-41CC-BE5C-67A1F54BD431}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day03", "Day03\Day03.csproj", "{74AF7235-1A89-41CC-BE5C-67A1F54BD431}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
